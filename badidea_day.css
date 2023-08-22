@@ -7,7 +7,7 @@
     --color: #555;
     --gradient: linear-gradient(45deg, var(--accent), #555);
 }
-a.bones001-cred {
+.bones001-cred {
     width: 300px;
     margin: 0 auto;
     display: block;
@@ -427,6 +427,7 @@ a.bones001-cred {
 }
 .bones001-modulo {
     width: 102%;
+    overflow-x:hidden;
 }
 .bones001-search.bones001-modulo {
     width: 300px;
