@@ -424,6 +424,7 @@ a.bones001-cred {
     border-radius: 10px;
 }
 .bones001-modulo {
+    overflow-x:hidden;
     width: 102%;
 }
 .bones001-search.bones001-modulo {
