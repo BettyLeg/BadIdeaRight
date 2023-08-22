@@ -6,6 +6,18 @@
     --color: #555;
     --gradient: linear-gradient(45deg, var(--accent), #555);
 }
+a.bones001-cred {
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    font-size: 10px!important;
+    font-family: 'Poppins';
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #aaa;
+}
 .day .bones001{
   --border:1px solid #eee;
   --background-1:#fafafa;
