@@ -220,7 +220,7 @@
 }
 .bones001 *::-webkit-scrollbar {
     width: 5px;
-  background:var(--background-2);
+  background:var(--background-1);
   border-left:var(--border);
 }
 
@@ -414,7 +414,7 @@
     border-radius: 10px;
 }
 .bones001-modulo {
-    width: 302px;
+    width: 102%;
 }
 .bones001-search.bones001-modulo {
     width: 300px;
