@@ -415,7 +415,21 @@
     opacity: .2;
     z-index: -1;
 }
-
+.b001-ac-img-fijado:after {
+    font-weight: 800;
+    content: "\f08d";
+    font-family: "Font Awesome 5 Free";
+    color: #fff;
+    font-size: 12px;
+    z-index: 2;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    transform: rotate(45deg);
+}
+.b001-ac-img-fijado {
+    position: relative;
+}
 .bones001:after {
     backdrop-filter: grayscale(1) contrast(.3);
     content: "";
